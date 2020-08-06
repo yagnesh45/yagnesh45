@@ -17,5 +17,3 @@
 # Skills
 
 <h4> Java | PHP | HTML, CSS, JS | MySQL | Git | Android | C,C++ </h4>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=yagnesh45)
