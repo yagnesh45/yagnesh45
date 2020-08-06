@@ -9,10 +9,6 @@
 <a href=http://linkedin.com/in/yagnesh45 > <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
 <a href=https://www.instagram.com/yagnesh_patil > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a> <br/> <br/>
 
-# About Myself:
-
-#### highlights: Android, Web Developer | Java | ML Enthusiast
-
-#### Skills
+# Skills
 
 <h4> Java | PHP | HTML, CSS, JS | MySQL | Git | Android | C,C++ </h4>
