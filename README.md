@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my final year project - Roadcrossing assitant <a href=https://yagnesh45.github.io/roadcrossing_website> <img src="https://img.icons8.com/material-rounded/26/000000/external-link.png"/></a>
+🔭 I’m currently working on my final year project - Roadcrossing assitant <a href=https://yagnesh45.github.io/roadcrossing_website> <img src="https://img.icons8.com/material-rounded/11/000000/external-link.png"/></a>
 🌱 I’m currently learning basics of machine learning for our final year project from Udemy.
 📫 How to reach me: yagneshpatil43@gmail.com / yagnesh.s.patil@gmail.com
 <!--
@@ -15,8 +15,7 @@
 <a href=https://www.instagram.com/yagnesh_patil > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
 
-<a href=Anything > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
-
+<br>
 #### <br>Name: Yagnesh SantoshBhai Patil
 
 #### Position: Android, Web Developer | Java | ML Enthusiast
