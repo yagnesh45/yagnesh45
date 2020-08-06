@@ -11,4 +11,4 @@
 
 # Skills
 
-<h4> Java | PHP | HTML, CSS, JS | MySQL | Git | Android | C,C++ </h4>
+<h4> Java | Python | R | PHP | HTML, CSS, JS | MySQL | Git | Android | C,C++ </h4>
