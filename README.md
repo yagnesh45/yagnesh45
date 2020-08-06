@@ -1,4 +1,5 @@
-### Hi there 👋, My name is Yagnesh Patil
+### Hi there 👋, My name is 
+# Yagnesh Patil
 
 🔭 I’m currently working on my final year project - <a href=https://yagnesh45.github.io/roadcrossing_website> Roadcrossing assitant <img src="https://img.icons8.com/material-rounded/15/000000/external-link.png"/></a> <br/>
 🌱 I’m currently learning basics of machine learning for our final year project from Udemy. <br/>
@@ -8,12 +9,10 @@
 <a href=http://linkedin.com/in/yagnesh45 > <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
 <a href=https://www.instagram.com/yagnesh_patil > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a> <br/> <br/>
 
-### About Myself:
+# About Myself:
 
-#### Position: Android, Web Developer | Java | ML Enthusiast
+#### highlights: Android, Web Developer | Java | ML Enthusiast
 
-#### Email: yagneshpatil43@gmail.com
-
-# Skills
+#### Skills
 
 <h4> Java | PHP | HTML, CSS, JS | MySQL | Git | Android | C,C++ </h4>
