@@ -16,7 +16,7 @@
 
 
 <br>
-#### <br>Name: Yagnesh SantoshBhai Patil
+#### Name: Yagnesh SantoshBhai Patil
 
 #### Position: Android, Web Developer | Java | ML Enthusiast
 
