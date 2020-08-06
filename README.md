@@ -14,8 +14,7 @@
 
 <a href=https://www.instagram.com/yagnesh_patil > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 
-
-<br>
+<br/>
 #### Name: Yagnesh SantoshBhai Patil
 
 #### Position: Android, Web Developer | Java | ML Enthusiast
