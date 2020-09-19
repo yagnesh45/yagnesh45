@@ -2,8 +2,8 @@
 
 ### Hi there 👋, It's Yagnesh Patil.
 
-🔭 I’m currently working on my final year project - Roadcrossing Assitant
 <!--<a href=https://yagnesh45.github.io/roadcrossing_website target=_blank> Roadcrossing assitant <img src="https://img.icons8.com/material-rounded/15/000000/external-link.png"/></a> <br/> -->
+🔭 I’m currently working on my final year project - Roadcrossing Assitant
 🌱 I’m currently learning basics of machine learning for our final year project from Udemy. <br/>
 📫 How to reach me: yagneshpatil43@gmail.com / yagnesh.s.patil@gmail.com <br/>
 
